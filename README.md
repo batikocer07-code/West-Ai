@@ -1,0 +1,2 @@
+# West-Ai
+Yapay zeka
